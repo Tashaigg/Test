@@ -17,3 +17,6 @@ elif imc < 40:
     print(f'IMC = {imc}, Obesidade')
 elif imc > 40:
     print(f'IMC = {imc}, Obesidade Grave')
+
+
+input('pressione enter para sair')
